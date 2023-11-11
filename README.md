@@ -1,4 +1,4 @@
-# Web Sockets Practice
+# Simple Chat Application using Socket.IO
 
 This is an example of the Socket.IO tutorial, found [here](https://socket.io/get-started/chat/#getting-this-example).
 
